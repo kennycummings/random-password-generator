@@ -20,34 +20,34 @@ URL: https://kennycummings.github.io/random-password-generator/
 
 <br>
 
-<img src="./images/random-password-generator-home.png" alt="Home Page">
+<img src="./Images/random-password-generator-home.png" alt="Home Page">
 
 <br>
 <br>
 
-<img src="./images/random-password-generator-home-2.png" alt="Home Page 2">
+<img src="./Images/random-password-generator-home-2.png" alt="Home Page 2">
 
 <br>
 <br>
 
-<img src="./images/random-password-generator-lowercase.png" alt="Lowercase prompt">
+<img src="./Images/random-password-generator-lowercase.png" alt="Lowercase prompt">
 
 <br>
 <br>
 
-<img src="./images/random-password-generator-uppercase.png" alt="Lowercase prompt">
+<img src="./Images/random-password-generator-uppercase.png" alt="Lowercase prompt">
 
 <br>
 <br>
 
-<img src="./images/random-password-generator-numeric.png" alt="Numeric prompt">
+<img src="./Images/random-password-generator-numeric.png" alt="Numeric prompt">
 
 <br>
 <br>
 
-<img src="./images/random-password-generator-special.png" alt="Special prompt">
+<img src="./Images/random-password-generator-special.png" alt="Special prompt">
 
 <br>
 <br>
 
-<img src="./images/random-password-generator-copytoclipboard.png" alt="Copy to clipboard function">
+<img src="./Images/random-password-generator-copytoclipboard.png" alt="Copy to clipboard function">
